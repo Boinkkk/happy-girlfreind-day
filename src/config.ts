@@ -46,7 +46,6 @@ export const config = {
   galleryPhotos: [
     "/video_compressed/1.mp4",
     "/video_compressed/2.mp4",
-    "/video_compressed/3.mp4",
     "/video_compressed/4.mp4",
     "/video_compressed/5.mp4",
     "/video_compressed/6.mp4",

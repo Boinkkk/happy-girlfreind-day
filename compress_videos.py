@@ -29,6 +29,7 @@ def compress_video(ffmpeg_exe, input_path, output_path):
         "-c:v", "libx265",
         "-crf", "28",
         "-preset", "medium",
+        "-pix_fmt", "yuv420p",
         "-tag:v", "hvc1",   # penting agar kompatibel diputar di Safari/iOS
         "-c:a", "aac",
         "-b:a", "96k",

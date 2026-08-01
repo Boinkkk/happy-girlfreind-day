@@ -50,11 +50,12 @@ export const Gallery: React.FC = () => {
               {item.isVideo ? (
                 <>
                   <video
-                    src={item.url}
+                    src={`${item.url}#t=0.001`}
                     muted
                     loop
                     playsInline
-                    preload="metadata"
+                    autoPlay
+                    preload="auto"
                     className="w-full h-full object-cover pointer-events-none opacity-90 group-hover:opacity-100 transition-opacity"
                   />
                   <div className="absolute inset-0 bg-black/20 flex items-center justify-center">
