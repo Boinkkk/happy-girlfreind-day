@@ -33,11 +33,11 @@ export const config = {
     },
     {
       title: "Bibir kamu yang manis",
-      description: "Apalagi pas Cipokan buh enak banget"
+      description: "Baguuss bangett bibirnyaa, lucu bentukannya wkkwkw"
     },
     {
-      title: "SUSU GEDE KAMU!!!! <3",
-      description: "Apalagi kalau di mainin uh enak lembut sedap gede lagi"
+      title: "Hidung pesek kamuuu",
+      description: "Hidung pesek kamu itu lucu banget sihhh, gemess dehh"
     }
   ],
 
